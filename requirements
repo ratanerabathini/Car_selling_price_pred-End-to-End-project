@@ -81,3 +81,4 @@ Werkzeug==2.0.1
 widgetsnbextension==3.5.1
 wincertstore==0.2
 zipp==3.4.1
+gunicorn
